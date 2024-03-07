@@ -6,8 +6,6 @@
   <h1>YOLOv8 Object Detection on Android</h1>
 
 
-  <h1>YOLOv8 Object Detection on Android</h1>
-
   <p>This project focuses on deploying YOLOv8 for real-time object detection on Android devices, leveraging the ncnn library and OpenCV.</p>
 
   <h2>Inference Examples</h2>
@@ -18,7 +16,6 @@
       <img src="image/inference_yolo_detect.jpg" alt="YOLO Inference">
     </div>
   </div>
-
   <div>
     <p>PPE Classification:</p>
     <ul>
