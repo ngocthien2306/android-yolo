@@ -5,25 +5,38 @@
 
   <h1>YOLOv8 Object Detection on Android</h1>
 
+
+  <h1>YOLOv8 Object Detection on Android</h1>
+
   <p>This project focuses on deploying YOLOv8 for real-time object detection on Android devices, leveraging the ncnn library and OpenCV.</p>
 
   <h2>Inference Examples</h2>
 
-  <ul>
-    <li>YOLO in Action:
+  <div>
+    <p>YOLO in Action:</p>
+    <div>
       <img src="image/inference_yolo_detect.jpg" alt="YOLO Inference">
-    </li>
-    <li>PPE Classification:</li>
+    </div>
+  </div>
+
+  <div>
+    <p>PPE Classification:</p>
     <ul>
       <li>Successful Wear: Full protective glasses and masks.
-        <img src="image/ppe-pass.jpg" alt="PPE Pass">
+        <div>
+          <img src="image/ppe-pass.jpg" alt="PPE Pass">
+        </div>
       </li>
       <li>Lack of Protective Equipment:
-        <img src="image/ppe-fail.jpg" alt="PPE Fail 1">
-        <img src="image/ppe-fail-2.jpg" alt="PPE Fail 2">
+        <div>
+          <img src="image/ppe-fail.jpg" alt="PPE Fail 1">
+        </div>
+        <div>
+          <img src="image/ppe-fail-2.jpg" alt="PPE Fail 2">
+        </div>
       </li>
     </ul>
-  </ul>
+  </div>
 
   <h2>ncnn-android-yolov8</h2>
 
