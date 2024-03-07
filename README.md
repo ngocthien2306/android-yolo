@@ -1,9 +1,5 @@
-<!DOCTYPE html>
-<html>
 
-<head>
-  <title>YOLOv8 Object Detection on Android</title>
-</head>
+<html>
 
 <body>
 
