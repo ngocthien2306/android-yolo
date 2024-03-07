@@ -1,0 +1,16 @@
+# ninja log v5
+7	1633	728034796	CMakeFiles/yolov8ncnn.dir/yolo.cpp.o	301e592f17e5b316
+5	755	728138395	CMakeFiles/yolov8ncnn.dir/ndkcamera.cpp.o	e2351c0fd1a6ed2d
+2	846	728120243	CMakeFiles/yolov8ncnn.dir/yolo_detect.cpp.o	d453a521e63a9230
+2	822	728145187	CMakeFiles/yolov8ncnn.dir/yolov8ncnn.cpp.o	ef94f4aac8928cb1
+822	1394	728145188	C:/Users/Admin/source/repos/ncnn-android-yolov8/ncnn-android-yolov8/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libyolov8ncnn.so	71b285ca35227fde
+2	797	728028097	CMakeFiles/yolov8ncnn.dir/yolov8-seg.cpp.o	924e98598811e176
+9	1440	728034795	CMakeFiles/yolov8ncnn.dir/yolov8ncnn_seg.cpp.o	cbb8d3c3bfd48450
+2	881	728139955	CMakeFiles/yolov8ncnn.dir/yolo_cls.cpp.o	c93dce939d58e8fd
+4	903	728232201	CMakeFiles/yolov8ncnn.dir/yolov8ncnn.cpp.o	ef94f4aac8928cb1
+7	1030	728232201	CMakeFiles/yolov8ncnn.dir/yolo_cls.cpp.o	c93dce939d58e8fd
+1031	1697	728232202	C:/Users/Admin/source/repos/ncnn-android-yolov8/ncnn-android-yolov8/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libyolov8ncnn.so	71b285ca35227fde
+4	782	730106968	CMakeFiles/yolov8ncnn.dir/yolov8ncnn.cpp.o	ef94f4aac8928cb1
+782	1295	730106968	C:/Users/Admin/source/repos/ncnn-android-yolov8/ncnn-android-yolov8/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libyolov8ncnn.so	71b285ca35227fde
+8	1859	731518506	CMakeFiles/yolov8ncnn.dir/yolov8ncnn.cpp.o	ef94f4aac8928cb1
+1860	2711	731518507	C:/Users/Admin/source/repos/ncnn-android-yolov8/ncnn-android-yolov8/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libyolov8ncnn.so	71b285ca35227fde
