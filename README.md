@@ -83,7 +83,7 @@
 
   <h2>Screenshots</h2>
 
-  <img src="screenshot.png" alt="Project Screenshot">
+  <img src="image/screenshot.jpg" alt="Project Screenshot">
 
   <h2>References</h2>
 
